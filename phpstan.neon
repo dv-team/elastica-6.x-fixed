@@ -1,0 +1,9 @@
+parameters:
+    level: 2
+
+    paths:
+        - lib
+
+    excludePaths:
+        - lib/Elastica/Query/Match.php
+        - lib/Elastica/Transport/HttpAdapter.php
